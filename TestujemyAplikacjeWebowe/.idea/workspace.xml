@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efd7bd34-b55c-4128-aab9-6a75e2ca6395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="TestSuite" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VQirpyYgB7DSBFosl7fiNfYcQL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestSuite" type="TestNG" temporary="true">
+      <module name="TestujemyAplikacjeWebowe" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efd7bd34-b55c-4128-aab9-6a75e2ca6395" name="Default Changelist" comment="" />
+      <created>1577191921512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577191921512</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1629" y="353" key="#Test1" timestamp="1578434615495">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1629" y="353" key="#Test1/0.0.2560.1410@0.0.2560.1410" timestamp="1578434615495" />
+    <state x="1372" y="269" width="1092" height="780" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578434623635">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1372" y="269" width="1092" height="780" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1578434623635" />
+    <state x="1655" y="442" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1577195113258">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1655" y="442" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1577195113258" />
+    <state x="1659" y="428" key="EnvironmentVariablesDialog" timestamp="1577195125225">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1659" y="428" key="EnvironmentVariablesDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1577195125225" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1578501656218">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1578501656218" />
+    <state width="1340" height="318" key="GridCell.Tab.0.bottom" timestamp="1580159999290">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1340" height="318" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1580159999290" />
+    <state width="1340" height="318" key="GridCell.Tab.0.center" timestamp="1580159999289">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1340" height="318" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1580159999289" />
+    <state width="1340" height="318" key="GridCell.Tab.0.left" timestamp="1580159999289">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1340" height="318" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1580159999289" />
+    <state width="1340" height="318" key="GridCell.Tab.0.right" timestamp="1580159999290">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1340" height="318" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1580159999290" />
+    <state x="1450" y="358" key="Maven.ArtifactSearchDialog" timestamp="1577208208549">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1450" y="358" key="Maven.ArtifactSearchDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1577208208549" />
+    <state x="981" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1580158111402">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="981" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1580158111402" />
+  </component>
+</project>
